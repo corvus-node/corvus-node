@@ -1,8 +1,8 @@
-<p align="center">I am Orvelth — a creator of sophisticated and arcane software.  
+<p align="center">I am Orvelth a creator of sophisticated and arcane software.  
 In the realm where logic meets mystery, I design solutions that are both precise and enigmatic.  
 Each project is crafted with intention, combining elegance with a subtle touch of the unknown.  
 
-This repository holds work that is not just code, but a crafted experience—  
+This repository holds work that is not just code, but a crafted experience  
 where innovation conceals itself behind layers of complexity and subtlety.  
 
 Explore, if you will, the intersection of clarity and arcana,  
