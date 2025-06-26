@@ -63,17 +63,6 @@ Each project is crafted with intention, combining elegance with a subtle touch o
   <img src="https://github-readme-stats.vercel.app/api?username=orvelth&show_icons=true&theme=dark" alt="orvelth's GitHub stats" />
 </p>
 
----
-
-<details>
-  <summary>🧠 More About My Philosophy</summary>
-  <br/>
-  I believe that code is not just syntax — it's the canvas where logic meets creativity.  
-  My approach is to build with care, ship with precision, and hide magic within structure.
-</details>
-
----
-
 ## 📡 Connect
 
 <p align="center">
