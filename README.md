@@ -18,7 +18,7 @@ Each project is crafted with intention, combining elegance with a subtle touch o
 
 ## 🔮 About Me
 
-🔸 Front-end developer crafting immersive and purposeful digital experiences  
+🔸 Front&back-end developer crafting immersive and purposeful digital experiences  
 🔸 Passionate about blending structure with mystery — from elegant UIs to expressive code  
 🔸 Working under the name **Orvelth**, where every line has meaning and depth  
 
