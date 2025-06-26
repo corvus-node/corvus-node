@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9F79EE&center=true&vCenter=true&width=700&lines=Crafting+Software+with+Elegance+%26+Arcana.;Exploring+Where+Logic+Meets+Mystery.;Welcome+to+the+Realm+of+Orvelth." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=bc0000&center=true&vCenter=true&width=700&lines=Crafting+Software+with+Elegance+%26+Arcana.;Exploring+Where+Logic+Meets+Mystery.;Welcome+to+the+Realm+of+Orvelth." alt="Typing SVG" />
 </p>
 
 <h1 align="center">Welcome, I'm Orvelth 👁️‍🗨️</h1>
