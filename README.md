@@ -69,10 +69,10 @@ Each project is crafted with intention, combining elegance with a subtle touch o
   <a href="mailto:orvelth@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/orvelth">
+  <a href="https://www.instagram.com/orvelth_in?igsh=enRmdnF1bGIydWhw">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/yourchannel">
+  <a href="https://www.youtube.com/@orvelth">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/orvelth">
