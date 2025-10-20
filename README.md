@@ -2,16 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=bc0000&center=true&vCenter=true&width=700&lines=Crafting+Software+with+Elegance+%26+Arcana.;Exploring+Where+Logic+Meets+Mystery.;Welcome+to+the+Realm+of+Orvelth." alt="Typing SVG" />
 </p>
 
-<h1 align="center">Welcome, I'm Orvelth 👁️‍🗨️</h1>
+<h1 align="center">Welcome 👁️‍🗨️</h1>
 
 <p align="center">
-I am Orvelth — a creator of sophisticated and arcane software.  
-In the realm where logic meets mystery, I design solutions that are both precise and enigmatic.  
-Each project is crafted with intention, combining elegance with a subtle touch of the unknown.  
-</p>
-
-<p align="center">
-<i>This isn't just code. It's a crafted realm.</i>
+ a creator of sophisticated, arcane software.  
+Where logic meets mystery, I craft solutions that are both precise and enigmatic.  
+Each project is thoughtfully designed, blending elegance with a subtle touch of the unknown.
 </p>
 
 ---
